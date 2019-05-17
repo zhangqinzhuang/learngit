@@ -3,3 +3,4 @@ Git are a version control system. Git is free software
 git 有一块区域叫做暂存区
 这是第一次写的内容
 我创建了一个新的分支，叫dev,我现在切换到新的分支上去了
+我在分支feature1上无限徜徉！
